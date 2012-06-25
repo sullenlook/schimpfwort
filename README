@@ -1,0 +1,12 @@
+SCHIMPFWORT PLUGIN IN DEUTSCH
+
+Beleidige Siri mit Schimpfwörtern und Siri wird kontern.
+z.B.: "Du Drecksau" oder "Drecksau"
+
+So installierst Du dieses Plugin: 
+
+# 1: Lade den "schimpfwort" ordner in ~/SiriServerCore/plugins/ 
+
+# 2: Fügen Sie "schimpfwort" in plugins.conf ein
+
+FERTIG
