@@ -19,8 +19,12 @@ Du Assi.
 Assi.
 Du Mistvieh.
 Mistvieh.
+Du Dreckvieh.
+Dreckvieh.
 Du Drecksau.
 Drecksau.
+Du Dreckschwein.
+Dreckschwein.
 Du Mistschwein.
 Mistschwein.
 Du Mongo.
@@ -47,4 +51,5 @@ Du Hackfresse.
 Hackfresse.
 Du Gesichtsgulasch.
 Du Opfer.
+Du Fisch.
 
